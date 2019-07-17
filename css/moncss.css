@@ -1,0 +1,254 @@
+body {
+    background-color: #e6e6e6;
+}
+
+
+/* -------------------Début section---------------- */
+
+.marg_section {
+    margin-top: 45px;
+}
+
+.sect {
+    min-height: 72vh;
+}
+
+
+/* -------------------Fin section---------------- */
+
+
+/* -------------------Début footer---------------- */
+
+.piedPage {
+    text-align: center;
+    background-color: #141517;
+}
+
+.textPied {
+    margin-bottom: 0px;
+    color: #ffffffb5 !important;
+    margin-top: 25vh;
+}
+
+
+/* -------------------Fin footer---------------- */
+
+
+/* ------------------Début -les formulaires---------------- */
+
+.MonForm {
+    margin-top: 10%;
+    border: solid 2px #d0c9d6;
+    background-color: #0c0c0c11;
+}
+
+.FormIndex {
+    margin-top: 18% !important;
+    background-color: #0e0f0fc4 !important;
+}
+
+.espace {
+    margin-top: 2%;
+}
+
+.mb {
+    margin-bottom: 2%;
+}
+
+.pourLabel {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.centrerDroite {
+    text-align: right;
+}
+
+
+/* #################### Début les tableaux #################### */
+
+.Mes_tableaux {
+    margin-top: 8%;
+    text-align: center !important;
+}
+
+thead>tr {
+    font-weight: bolder;
+}
+
+
+/* ###################### Fin les tableaux #################### */
+
+
+/* -------------------Fin les formulaires---------------- */
+
+.blcMoins {
+    background-color: rgba(0, 0, 0, 0.836) !important;
+    color: white;
+}
+
+.rougMoins {
+    background-color: rgba(158, 11, 11, 0.836) !important;
+    color: white;
+}
+
+.red {
+    color: red !important;
+}
+
+.diagCircl {
+    margin-top: 4%;
+}
+
+.textAc {
+    margin-top: 10%;
+    background-color: #ffffffa6;
+    border-radius: 15px 50px;
+}
+
+.titreCircle,
+.textAc {
+    font-weight: bolder;
+    font-style: italic;
+    color: #0c0c0c;
+    text-align: center;
+}
+
+.titreCircle {
+    font-size: 235%;
+    margin-left: 22%;
+}
+
+.t1:hover,
+.t2:hover,
+.t3:hover {
+    font-size: 250% !important;
+    color: #307bbb;
+}
+
+.titreCirLog {
+    margin-left: 60% !important;
+}
+
+div.dataTables_wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.btRadio {
+    padding: 20% 20% 20% 20% !important;
+    margin-right: 1%;
+    margin-top: 2.5%;
+}
+
+.popUp {
+    position: fixed;
+    /* top: 70px; */
+    top: -700px;
+    left: 22.5%;
+    background-color: #f9f9f9f0;
+    width: 55%;
+    z-index: 1;
+    border-radius: 50px 50px 50px 50px;
+    padding: 2% 0% 1% 7%;
+    border: 5px solid #0e0f0fc4;
+    font-family: Times;
+    box-shadow: 0px 0px 11px 5px rgba(3, 3, 3, 0.692);
+}
+
+.bout {
+    margin-left: 12%;
+}
+
+.bout p {
+    margin: 5%;
+}
+
+.left button {
+    width: 113%;
+}
+
+.ligne {
+    display: flex;
+    font-style: italic;
+    font-size: 130%;
+}
+
+.ligne strong {
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.left {
+    width: 25%;
+    font-weight: bolder;
+}
+
+.right {
+    width: 60%;
+}
+
+.active>.nav-link {
+    background-color: #d0c9d675;
+    border-bottom: 4px solid #ce2e7469;
+}
+
+.navbar-expand-lg {
+    padding: 0px 16px 0px 16px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffffb5 !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    background-color: #39614057;
+    border-bottom: 4px solid #39615ad1;
+}
+
+.pager>.active>a {
+    border-radius: 50px;
+    background-color: rgba(14, 13, 13, 0.288);
+    color: white;
+}
+
+.btinf {
+    width: 100%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.btsupet {
+    width: 100%;
+    padding: 1px 0px 0px 1px;
+    ;
+}
+
+.boutonAll {
+    padding: 0px;
+}
+
+.navindex {
+    background-color: #141517f0 !important;
+    color: #ffffffb5 !important;
+}
+
+.nonSoulign {
+    text-decoration: none !important;
+}
+
+.lister {
+    margin-top: 5% !important;
+}
+
+.navbar-nav {
+    margin-right: 0% !important;
+}
+
+.deco {
+    margin-left: 33% !important;
+}
+
+td.highlight {
+    background-color: whitesmoke !important;
+}
